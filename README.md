@@ -1,5 +1,5 @@
 # Symbian-Geek.com
-Just like Nokia Ovi But it is remastered
+Just like Nokia Ovi but it is remastered
 The aim of this project is to create a site designed to be a music, games, apps and more for Nokia, Sony Ericson, Siemens, Samsung, Motorola and Pantech branded Symbian powered phones. Think of it like Nokia Ovi Store but rebuilt.
 ## New Update 20.04.2025
 
