@@ -5,7 +5,8 @@ The aim of this project is to create a site designed to be a music, games, apps 
 
 The Banner and Demo (index.html) is ready
 ![4fbc5c56-3bce-4bec-8ffe-8d81c9ff2f44](https://github.com/user-attachments/assets/4c37fc6b-861c-4573-9f71-93acfd9df0b4)
-The Banner 
+
+_The Banner_
 
 HTML, JavaScript, CSS files by _shrekinessegi_
 
